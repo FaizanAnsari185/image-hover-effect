@@ -8,7 +8,6 @@ html,body{
     width: 100%;
 }
 .list{
-    position: relative;
     padding: 0px 20px;
     background-color: rgb(7, 7, 39);
     height: 100vh;
@@ -21,7 +20,6 @@ html,body{
     transform: perspective(1000px);
 }
 .list .item{
-    background: rgba(0, 0, 0, 0); 
     height: 250px;
     width: 200px;
     transition: 0.5s;
